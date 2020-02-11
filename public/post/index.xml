@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on George Savva&#39;s Statistics Notes</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on George Savva&#39;s Statistics Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analysis of clustered data part 2. How is the t-test affected by clustering within groups?</title>
+      <link>/2020/02/10/analysis-of-clustered-data-part-2.-how-is-the-t-test-affected-by-clustering-within-groups/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/10/analysis-of-clustered-data-part-2.-how-is-the-t-test-affected-by-clustering-within-groups/</guid>
+      <description>In the last entry we estimated the power and type-1 error rate of the t-test for a simple two group experiment, using datasets simulated under conditions that perfectly matched the assumptions of the test.
+We showed that the power of our experiment to detect a real difference between groups of 10g was 56%, and that when there was no underlying difference between groups we got a false positive result 5% of the time (defining statistical significance at p&amp;lt;0.</description>
+    </item>
+    
+    <item>
+      <title>Analysis of clustered data part 1.  Use of simulation to study power and error rates of statistical tests.</title>
+      <link>/2020/02/09/analysis-of-clustered-data-part-1.-use-of-simulation-to-study-power-and-error-rates-of-statistical-tests./</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/09/analysis-of-clustered-data-part-1.-use-of-simulation-to-study-power-and-error-rates-of-statistical-tests./</guid>
+      <description>SummaryData arising from biological studies are often clustered, that is, owing to the study design some groups of observations will be more similar to each other than they are to other observations.
+For example, study participants might be sampled in family groups, or mice housed together in cages. In both of these cases it is possible that there is some factor that influences all of the members of one cluster (that is all the members of a family or mice in one particular cage) but does not affect members of other clusters.</description>
+    </item>
+    
+  </channel>
+</rss>
