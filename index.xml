@@ -31,11 +31,11 @@ We showed that the power of our experiment to detect a real difference between g
     </item>
     
     <item>
-      <title>Analysis of clustered data part 1.  Use of simulation to study power and error rates of statistical tests.</title>
-      <link>/2020/02/09/analysis-of-clustered-data-part-1.-use-of-simulation-to-study-power-and-error-rates-of-statistical-tests./</link>
+      <title>Analysis of clustered data part 1.  Use of simulation to study power and error rates of statistical tests</title>
+      <link>/2020/02/09/analysis-of-clustered-data-part-1.-use-of-simulation-to-study-power-and-error-rates-of-statistical-tests/</link>
       <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/02/09/analysis-of-clustered-data-part-1.-use-of-simulation-to-study-power-and-error-rates-of-statistical-tests./</guid>
+      <guid>/2020/02/09/analysis-of-clustered-data-part-1.-use-of-simulation-to-study-power-and-error-rates-of-statistical-tests/</guid>
       <description>SummaryData arising from biological studies are often clustered, that is, owing to the study design some groups of observations will be more similar to each other than they are to other observations.
 For example, study participants might be sampled in family groups, or mice housed together in cages. In both of these cases it is possible that there is some factor that influences all of the members of one cluster (that is all the members of a family or mice in one particular cage) but does not affect members of other clusters.</description>
     </item>
